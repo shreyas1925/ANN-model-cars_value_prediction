@@ -1,1 +1,2 @@
-# ANN-model-cars_value_prediction
+# Artificial Neural Model to estimate the car purchase amount
+
